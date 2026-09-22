@@ -237,4 +237,4 @@ This repository serves as the official landing page for Affinity Photo. The soft
 **Get the most recent version of Affinity Photo today!**
 
 ---
-**Last updated:** 2026-09-22 15:17:02 UTC
+**Last updated:** 2026-09-22 19:24:45 UTC
